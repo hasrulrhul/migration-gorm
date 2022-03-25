@@ -1,0 +1,19 @@
+
+
+#  file
+*.iml
+.idea/
+.vscode/
+.DS_Store
+.env
+*.log
+gin-bin
+*.exe
+.DS_Store
+
+# CICD Github
+.github/workflows/*
+
+# folder
+/vendor
+/~
